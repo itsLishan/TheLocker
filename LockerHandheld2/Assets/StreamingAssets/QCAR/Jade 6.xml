@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="EdwardRed2" size="1.000000 0.736889" />
+    <ImageTarget name="ElleNote" size="1.000000 1.974170" />
+    <ImageTarget name="EdwardsSonRed" size="1.000000 0.743879" />
+    <ImageTarget name="EdSon" size="1.000000 0.742283" />
+    <ImageTarget name="EdwardSon" size="1.000000 0.738869" />
+    <ImageTarget name="EdwadsSon" size="1.000000 0.742640" />
+    <ImageTarget name="PhotoEdwardsSon" size="1.000000 0.764751" />
+    <ImageTarget name="PhotoJadeFriend" size="1.000000 0.787879" />
+    <ImageTarget name="Detention" size="1.000000 1.256806" />
+    <ImageTarget name="willow-smith-300" size="1.000000 1.333333" />
+    <ImageTarget name="ZorkPoster" size="2.000000 2.538835" />
+    <ImageTarget name="IMG_6184" size="2.000000 1.500000" />
+    <ImageTarget name="sept27Planner" size="2.000000 1.500000" />
+    <ImageTarget name="BusinessCard" size="0.500000 0.916474" />
+    <ImageTarget name="DisneyPg36" size="1.300000 1.528204" />
+    <ImageTarget name="DisneyBook" size="2.000000 2.340697" />
+    <ImageTarget name="family" size="1.000000 0.465668" />
+    <ImageTarget name="cross" size="1.000000 1.470000" />
+    <ImageTarget name="Bible" size="1.000000 0.790000" />
+  </Tracking>
+</QCARConfig>

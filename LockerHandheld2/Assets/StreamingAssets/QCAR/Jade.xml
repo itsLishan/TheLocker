@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BusinessCard" size="0.500000 0.916474" />
+    <ImageTarget name="DisneyPg36" size="1.300000 1.528204" />
+    <ImageTarget name="DisneyBook" size="2.000000 2.340697" />
+    <ImageTarget name="family" size="1.000000 0.465668" />
+    <ImageTarget name="cross" size="1.000000 1.470000" />
+    <ImageTarget name="Bible" size="1.000000 0.790000" />
+  </Tracking>
+</QCARConfig>
