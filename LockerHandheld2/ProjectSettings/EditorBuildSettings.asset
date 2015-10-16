@@ -5,5 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GlowTest.unity
   - enabled: 1
-    path: Assets/GlowTest.unity
+    path: Assets/Scenes/Ray1.unity
