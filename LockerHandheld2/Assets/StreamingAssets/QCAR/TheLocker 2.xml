@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="FinalPuzzle1" size="1.000000 0.750000" />
+    <ImageTarget name="EdwardsMomBig" size="2.000000 2.000000" />
+    <ImageTarget name="EdwardsMom" size="1.000000 1.000000" />
+    <ImageTarget name="DetentionNote" size="2.000000 2.632486" />
+    <ImageTarget name="GlassNote" size="1.000000 1.766052" />
+  </Tracking>
+</QCARConfig>
