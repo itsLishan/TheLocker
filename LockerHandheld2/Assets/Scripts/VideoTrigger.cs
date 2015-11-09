@@ -46,7 +46,6 @@ public class VideoTrigger : MonoBehaviour {
 	void StartVideo(){
 		isBeingTracked = false;
 		Handheld.PlayFullScreenMovie (videoName, Color.black, FullScreenMovieControlMode.Hidden);
-
 	}
 
 }

@@ -29,6 +29,11 @@ namespace Vuforia
             }
         }
 
+		void OnGUI()
+		{
+						
+		}
+
         #endregion // UNITY_MONOBEHAVIOUR_METHODS
 
     }
