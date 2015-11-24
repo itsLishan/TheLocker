@@ -37,14 +37,14 @@ public class VideoObjectTrigger : MonoBehaviour {
 		if (isBeingTracked == false) {
 			isBeingTracked = true;
 			startTime = myStartTime;
-			audio.Play ();
+			if( audio != null ) audio.Play ();
 		}
 	}
 	
 	void EndTrackingTimer(){
 		isBeingTracked = false;
 		elapsedTime = 0f;
-		audio.Stop ();
+		if( audio != null ) audio.Stop ();
 	}
 	
 	void StartVideo(){

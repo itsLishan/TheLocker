@@ -11,3 +11,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Ray1.unity
   - enabled: 1
     path: Assets/Scenes/BetaTime.unity
+  - enabled: 0
+    path: Assets/Scenes/Jinghui_Test.unity
