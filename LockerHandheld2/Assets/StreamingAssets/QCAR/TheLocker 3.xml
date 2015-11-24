@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Puzzle_Solved6" size="2.000000 2.001106" />
+    <ImageTarget name="Puzzle_Solved5" size="2.000000 1.824788" />
+    <ImageTarget name="Puzzle_Solved4" size="2.000000 1.865990" />
+    <ImageTarget name="Puzzle_Solved3" size="2.000000 1.894100" />
+    <ImageTarget name="Puzzle_Solved2" size="2.000000 1.831361" />
+    <ImageTarget name="Puzzle_Solved1" size="2.000000 2.005350" />
+    <ImageTarget name="DiaryDrawAlexis" size="1.000000 0.944572" />
+    <ImageTarget name="DiaryCrossOut" size="1.000000 1.415392" />
+    <ImageTarget name="DogTag" size="0.500000 0.710850" />
+    <ImageTarget name="LunchBack" size="2.000000 2.305655" />
+    <ImageTarget name="LunchFront" size="2.000000 2.312236" />
+    <ImageTarget name="Drawing" size="2.000000 1.541899" />
+    <ImageTarget name="NakedPuzle" size="2.000000 2.646756" />
+    <ImageTarget name="LastPuzzle2" size="2.000000 1.852665" />
+  </Tracking>
+</QCARConfig>
